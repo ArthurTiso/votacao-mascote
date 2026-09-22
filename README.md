@@ -1,4 +1,4 @@
-<img width="1260" height="840" alt="image" src="https://github.com/user-attachments/assets/1f5f7eae-fad9-43b0-a3eb-9c74eb1b07fd" /># Votação do Mascote da Saúde Bucal
+# Votação do Mascote da Saúde Bucal
 
 Sistema de votação por toque para um display digital (TV touch conectada a um computador), usado por crianças para escolher o nome do mascote da saúde bucal de uma escola.
 
