@@ -4,8 +4,7 @@ Sistema de votação por toque para um display digital (TV touch conectada a um 
 
 Desenvolvido no estágio de TI da Prefeitura Municipal de Caraguatatuba.
 
-<img width="1317" height="927" alt="image" src="https://github.com/user-attachments/assets/48d02a8e-5d72-4196-9395-5819f3a93696" />
-<img width="1469" height="779" alt="image" src="https://github.com/user-attachments/assets/316a4b5d-5c53-4730-8ed5-3359116a7198" />
+<img width="1317" height="927" alt="image" src="https://github.com/user-attachments/assets/48d02a8e-5d72-4196-9395-5819f3a93696" /> <img width="1469" height="779" alt="image" src="https://github.com/user-attachments/assets/316a4b5d-5c53-4730-8ed5-3359116a7198" />
 <img width="1260" height="840" alt="image" src="https://github.com/user-attachments/assets/91986648-a0b4-4ab3-8815-ed29c83ff33a" />
 
 
